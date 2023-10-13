@@ -1,0 +1,22 @@
+name: Currency Converter
+
+on:
+  push:
+    branches:
+      - main
+  pull:
+    branches
+
+jobs:
+  dockerPush:
+    runs-on:
+      ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: Checkout Action
+        
+      - name: Dockerbuildx Setup
+        uses: -||-
+
+      - name: login
