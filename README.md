@@ -11,9 +11,9 @@ Currency Exchange is a web application built with React that allows you to conve
 ## Technologies
 
 - **Frontend:** React
-- **API:** https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/${currency}.json (Replace desired currency from currency )
+- **API:** https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/${currency}.json (Replace {currency} with desired currency )
 - **Styling:** CSS or Styling Framework Tailwind CSS & DaisyUI
-- **Deployment:** Hosted on [Hosting Service]Vercel
+- **Deployment:** Hosted on Vercel
 
 ## Installation
 
